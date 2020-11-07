@@ -40,12 +40,17 @@ animation:
     itemName: "§a"
     customModelData: 10001
     material: "DIAMOND_HOE"
-  # 攻击状态
+  # attack state
   attack:
     itemName: "§5"
     customModelData: 10002
     material: "DIAMOND_HOE"
     # Display the dynamic duration of the attack action, in seconds
     time: 5
+    
+# Other
+entity:
+  # Whether the real entity is visible, invisible by default
+  visible: false
 ```
 
