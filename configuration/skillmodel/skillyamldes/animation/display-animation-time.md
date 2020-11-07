@@ -1,0 +1,2 @@
+# Display animation time
+
